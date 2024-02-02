@@ -25,7 +25,7 @@ For enhanced flexibility, use Google Colab:
    - import libraries like Tensorflow and Keras for building neural nets.
 
 2. **Data Preprocessing:**
-   -preprocess the data to get it into a format which is suitable for training neural nets.
+   - preprocess the data to get it into a format which is suitable for training neural nets.
 
 3. **Build the Model:**
    - use Tensorflow and Keras to build the model. add the required number of layers and required activation functions.
