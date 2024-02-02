@@ -21,20 +21,23 @@ For enhanced flexibility, use Google Colab:
 
 ## Common Steps in a Deep Learning Project
 
-1. **Data Preparation:**
-   - Collect and preprocess the dataset.
+1. **Importing the necessary libraries:**
+   - import libraries like Tensorflow and Keras for building neural nets.
 
-2. **Model Building:**
-   - Architect neural network using Keras.
+2. **Data Preprocessing:**
+   -preprocess the data to get it into a format which is suitable for training neural nets.
 
-3. **Training:**
-   - Train the model using the prepared dataset.
+3. **Build the Model:**
+   - use Tensorflow and Keras to build the model. add the required number of layers and required activation functions.
 
-4. **Evaluation:**
-   - Assess the model's performance on a test set.
+4. **Compile the model:**
+   - compile the neural network to get it ready for training.
 
-5. **Prediction:**
-   - Make predictions on new data.
+5. **Train your model:**
+   - Train your model on the dataset.
+
+6. **Evaluate the model:**
+   - evaluate the model on test set and validation set and compare the accuracies on Train and Validation set.
 
 ## Libraries Involved
 
