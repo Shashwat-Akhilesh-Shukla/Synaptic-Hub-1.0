@@ -1,15 +1,16 @@
 # SynapticHub 1.0 🚀
 
 # Table of Contents
-| Algorithm                    | Project                                 | Description                                                                                                 |
-| -------------------------- | ------------------------------------------|------------------------------------------------------------------------------------------------------------ |
-| CONVOLUTIONAL NEURAL NETWORK | [DIGIT RECOGNITION - MNIST](https://github.com/Shashwat-Akhilesh-Shukla/Synaptic-Hub-1.0/blob/main/MNIST_DIGIT_RECOGNITION.ipynb)               | Building a Handwritten Digit Recognition system on the MNIST dataset.                                       |
-|                              | [BINARY CLASSIFIER](https://github.com/Shashwat-Akhilesh-Shukla/Synaptic-Hub-1.0/blob/main/cnn_binary_classifier.py)                      | A simple binary classifier in CNN differentiating between two classes                                       |
-|                              | [FASHION MNIST CLASSIFICATION](https://github.com/Shashwat-Akhilesh-Shukla/Synaptic-Hub-1.0/blob/main/fashion_mnist_cnn_classification.py)            | A classification system trained to identify object related to fashion                                       |
-|                              | [CIFAR10 Classification](https://github.com/Shashwat-Akhilesh-Shukla/Synaptic-Hub-1.0/blob/main/cifar10_cnn_classification.py)                 | Object detection on CIFAR10 dataset consisting of 10 classes                                                |
-|                              | [CIFAR100 Classification](https://github.com/Shashwat-Akhilesh-Shukla/Synaptic-Hub-1.0/blob/main/cnn_cifar100.py)                 | Object detection on CIFAR100 dataset consisting of 100 classes                                              |
-|                              | [FACIAL EXPRESSION RECOGNITION](https://github.com/Shashwat-Akhilesh-Shukla/Synaptic-Hub-1.0/blob/main/facial_expression_recognition.py)          | Facial expression recognition using Convolutional Neural Network                                            |
-| LSTM                         | [IMDB SENTIMENT ANALYSIS](https://github.com/Shashwat-Akhilesh-Shukla/Synaptic-Hub-1.0/blob/main/lstm_imdb_sentiment_analysis.py)                 | Performing sentiment analysis on the IMDB dataset using LONG-SHORT-TERM-MEMORY                              |
+
+| Algorithm                    | Project                                                                                                   | Description                                                                                                 |
+| --------------------------   | --------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
+| Convolutional Neural Network | [Handwritten Digit Recognition - MNIST](https://github.com/Shashwat-Akhilesh-Shukla/Synaptic-Hub-1.0/blob/main/MNIST_DIGIT_RECOGNITION.ipynb)             | Implementing a Convolutional Neural Network (CNN) for recognizing handwritten digits using the MNIST dataset.                                       |
+|  | [Binary Classifier](https://github.com/Shashwat-Akhilesh-Shukla/Synaptic-Hub-1.0/blob/main/cnn_binary_classifier.py)                       | Developing a simple binary classifier with a CNN architecture to differentiate between two classes.                                      |
+| | [Fashion MNIST Classification](https://github.com/Shashwat-Akhilesh-Shukla/Synaptic-Hub-1.0/blob/main/fashion_mnist_cnn_classification.py) | Training a CNN model for classifying fashion-related objects using the Fashion MNIST dataset.                                            |
+|  | [CIFAR10 Classification](https://github.com/Shashwat-Akhilesh-Shukla/Synaptic-Hub-1.0/blob/main/cifar10_cnn_classification.py)                   | Utilizing a CNN to detect objects in the CIFAR10 dataset, consisting of 10 different classes.                                               |
+|  | [CIFAR100 Classification](https://github.com/Shashwat-Akhilesh-Shukla/Synaptic-Hub-1.0/blob/main/cnn_cifar100.py)                                                       | Implementing a CNN for object detection on the CIFAR100 dataset, which contains 100 distinct classes.                                        |
+|  | [Facial Expression Recognition](https://github.com/Shashwat-Akhilesh-Shukla/Synaptic-Hub-1.0/blob/main/facial_expression_recognition.py)            | Creating a facial expression recognition system using CNN architecture to detect emotions from images.                                       |
+| Long Short-Term Memory       | [IMDB Sentiment Analysis](https://github.com/Shashwat-Akhilesh-Shukla/Synaptic-Hub-1.0/blob/main/lstm_imdb_sentiment_analysis.py)               | Employing Long Short-Term Memory (LSTM) for sentiment analysis on the IMDB dataset, a collection of movie reviews.                           |
 
 
 
