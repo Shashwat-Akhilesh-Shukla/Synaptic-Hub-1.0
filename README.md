@@ -2,13 +2,13 @@
 
 | Algorithm                    | Project                                 | Description                                                                                                 |
 | -------------------------- | ------------------------------------------|------------------------------------------------------------------------------------------------------------ |
-| CONVOLUTIONAL NEURAL NETWORK | DIGIT RECOGNITION - MNIST               | Building a Handwritten Digit Recognition system on the MNIST dataset.                                       |
-|                              | BINARY CLASSIFIER                       | A simple binary classifier in CNN differentiating between two classes                                       |
-|                              | FASHION MNIST CLASSIFICATION            | A classification system trained to identify object related to fashion                                       |
-|                              | CIFAR10 Classification                  | Object detection on CIFAR10 dataset consisting of 10 classes                                                |
-|                              | CIFAR100 Classification                 | Object detection on CIFAR100 dataset consisting of 100 classes                                              |
-|                              | FACIAL EXPRESSION RECOGNITION           | Facial expression recognition using Convolutional Neural Network                                            |
-| LSTM                         | IMDB SENTIMENT ANALYSIS                 | Performing sentiment analysis on the IMDB dataset using LONG-SHORT-TERM-MEMORY                              |
+| CONVOLUTIONAL NEURAL NETWORK | [DIGIT RECOGNITION - MNIST](https://github.com/Shashwat-Akhilesh-Shukla/Synaptic-Hub-1.0/blob/main/MNIST_DIGIT_RECOGNITION.ipynb)               | Building a Handwritten Digit Recognition system on the MNIST dataset.                                       |
+|                              | [BINARY CLASSIFIER](https://github.com/Shashwat-Akhilesh-Shukla/Synaptic-Hub-1.0/blob/main/cnn_binary_classifier.py)                      | A simple binary classifier in CNN differentiating between two classes                                       |
+|                              | [FASHION MNIST CLASSIFICATION](https://github.com/Shashwat-Akhilesh-Shukla/Synaptic-Hub-1.0/blob/main/fashion_mnist_cnn_classification.py)            | A classification system trained to identify object related to fashion                                       |
+|                              | [CIFAR10 Classification](https://github.com/Shashwat-Akhilesh-Shukla/Synaptic-Hub-1.0/blob/main/cifar10_cnn_classification.py)                 | Object detection on CIFAR10 dataset consisting of 10 classes                                                |
+|                              | [CIFAR100 Classification](https://github.com/Shashwat-Akhilesh-Shukla/Synaptic-Hub-1.0/blob/main/cnn_cifar100.py)                 | Object detection on CIFAR100 dataset consisting of 100 classes                                              |
+|                              | [FACIAL EXPRESSION RECOGNITION](https://github.com/Shashwat-Akhilesh-Shukla/Synaptic-Hub-1.0/blob/main/facial_expression_recognition.py)          | Facial expression recognition using Convolutional Neural Network                                            |
+| LSTM                         | [IMDB SENTIMENT ANALYSIS](https://github.com/Shashwat-Akhilesh-Shukla/Synaptic-Hub-1.0/blob/main/lstm_imdb_sentiment_analysis.py)                 | Performing sentiment analysis on the IMDB dataset using LONG-SHORT-TERM-MEMORY                              |
 
 
 
