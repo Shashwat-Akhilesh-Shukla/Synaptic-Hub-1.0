@@ -1,5 +1,6 @@
 # SynapticHub 1.0 🚀
 
+# Table of Contents
 | Algorithm                    | Project                                 | Description                                                                                                 |
 | -------------------------- | ------------------------------------------|------------------------------------------------------------------------------------------------------------ |
 | CONVOLUTIONAL NEURAL NETWORK | [DIGIT RECOGNITION - MNIST](https://github.com/Shashwat-Akhilesh-Shukla/Synaptic-Hub-1.0/blob/main/MNIST_DIGIT_RECOGNITION.ipynb)               | Building a Handwritten Digit Recognition system on the MNIST dataset.                                       |
