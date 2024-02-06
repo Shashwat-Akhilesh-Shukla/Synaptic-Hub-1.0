@@ -1,5 +1,25 @@
 # SynapticHub 1.0 🚀
 
+| Algorithm                    | Project                                 | Description                                                                                                 |
+| -------------------------- | ------------------------------------------|------------------------------------------------------------------------------------------------------------ |
+| CONVOLUTIONAL NEURAL NETWORK | DIGIT RECOGNITION - MNIST               | Building a Handwritten Digit Recognition system on the MNIST dataset.                                       |
+|                              | BINARY CLASSIFIER                       | A simple binary classifier in CNN differentiating between two classes                                       |
+|                              | FASHION MNIST CLASSIFICATION            | A classification system trained to identify object related to fashion                                       |
+|                              | CIFAR10 Classification                  | Object detection on CIFAR10 dataset consisting of 10 classes                                                |
+|                              | CIFAR100 Classification                 | Object detection on CIFAR100 dataset consisting of 100 classes                                              |
+|                              | FACIAL EXPRESSION RECOGNITION           | Facial expression recognition using Convolutional Neural Network                                            |
+| LSTM                         | IMDB SENTIMENT ANALYSIS                 | Performing sentiment analysis on the IMDB dataset using LONG-SHORT-TERM-MEMORY                              |
+
+
+
+
+
+
+
+
+
+
+
 ## Installation
 
 ### Tensorflow 2.0 and Keras
