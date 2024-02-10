@@ -2,7 +2,7 @@
 
 # Table of Contents
 
-| Algorithm                    | Project                                                                                                   | Description                                                                                                 |
+| Algorithms                    | Project                                                                                                   | Description                                                                                                 |
 | --------------------------   | --------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
 | Convolutional Neural Network | [Handwritten Digit Recognition - MNIST](https://github.com/Shashwat-Akhilesh-Shukla/Synaptic-Hub-1.0/blob/main/MNIST_DIGIT_RECOGNITION.ipynb)             | Implementing a Convolutional Neural Network (CNN) for recognizing handwritten digits using the MNIST dataset.                                       |
 |  | [Binary Classifier](https://github.com/Shashwat-Akhilesh-Shukla/Synaptic-Hub-1.0/blob/main/cnn_binary_classifier.py)                       | Developing a simple binary classifier with a CNN architecture to differentiate between two classes.                                      |
