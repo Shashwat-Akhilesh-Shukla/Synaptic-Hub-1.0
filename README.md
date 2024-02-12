@@ -11,7 +11,8 @@
 |  | [CIFAR100 Classification](https://github.com/Shashwat-Akhilesh-Shukla/Synaptic-Hub-1.0/blob/main/cnn_cifar100.py)                                                       | Implementing a CNN for object detection on the CIFAR100 dataset, which contains 100 distinct classes.                                        |
 |  | [Facial Expression Recognition](https://github.com/Shashwat-Akhilesh-Shukla/Synaptic-Hub-1.0/blob/main/facial_expression_recognition.py)            | Creating a facial expression recognition system using CNN architecture to detect emotions from images.                                       |
 | Long Short-Term Memory       | [IMDB Sentiment Analysis](https://github.com/Shashwat-Akhilesh-Shukla/Synaptic-Hub-1.0/blob/main/lstm_imdb_sentiment_analysis.py)               | Employing Long Short-Term Memory (LSTM) for sentiment analysis on the IMDB dataset, a collection of movie reviews.                           |
-
+| Gated Recurrent Neural Networks | [GRU Sentiment Analysis}](https://github.com/Shashwat-Akhilesh-Shukla/Synaptic-Hub-1.0/blob/main/imdb_GRU.ipynb) | sentiment analysis on the imdb dataset with gated neural networks|
+| Simple Neural Network | [Text Generation](https://github.com/Shashwat-Akhilesh-Shukla/Synaptic-Hub-1.0/blob/main/RNN_Text_Generation.ipynb) | generate text using recurrent neural networks|
 
 
 
