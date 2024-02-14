@@ -106,6 +106,25 @@ Recurrent Neural Networks (RNNs) are a type of neural network designed to handle
 
 Despite their effectiveness in handling sequential data, RNNs suffer from the vanishing gradient problem, which limits their ability to capture long-term dependencies in the data. This led to the development of variants like Long Short-Term Memory (LSTM) and Gated Recurrent Unit (GRU) to address this issue.
 
+## LSTM (Long Short-Term Memory)
+
+LSTM, short for Long Short-Term Memory, is a type of recurrent neural network (RNN) architecture designed to overcome the limitations of traditional RNNs in capturing long-term dependencies in sequential data. It introduces a memory cell with gating mechanisms to selectively store and retrieve information over time. Here's a brief overview of how LSTM works:
+
+- **Memory Cell**: LSTM networks contain a memory cell that maintains a hidden state over time, allowing it to remember information from previous time steps.
+- **Gating Mechanisms**: LSTMs use three gating mechanisms to control the flow of information into and out of the memory cell:
+  - **Forget Gate**: Determines which information to discard from the cell state.
+  - **Input Gate**: Controls the update of the cell state by selectively adding new information.
+  - **Output Gate**: Regulates the output of the cell state to produce the final prediction.
+- **Long-Term Dependencies**: By selectively updating and forgetting information using the gating mechanisms, LSTM networks can effectively capture long-term dependencies in sequential data, making them suitable for tasks like natural language processing, speech recognition, and time series prediction.
+
+## GRU (Gated Recurrent Unit)
+
+GRU, short for Gated Recurrent Unit, is another type of recurrent neural network (RNN) architecture, similar to LSTM, designed to address the vanishing gradient problem and capture long-term dependencies in sequential data. GRU simplifies the architecture of LSTM by merging the forget and input gates into a single update gate. Here's an overview of GRU:
+
+- **Update Gate**: GRU uses a single update gate to control the flow of information into the hidden state, combining the roles of the forget and input gates in LSTM.
+- **Reset Gate**: Additionally, GRU introduces a reset gate that determines how much of the past hidden state should be forgotten when computing the new hidden state.
+- **Simplified Architecture**: Compared to LSTM, GRU has a simpler architecture with fewer parameters, making it computationally more efficient and easier to train.
+- **Effective for Sequence Modeling**: Despite its simpler architecture, GRU has been shown to be effective for capturing long-term dependencies in sequential data and has been widely used in natural language processing, machine translation, and other sequence modeling tasks.
 
 
 
